@@ -1,0 +1,180 @@
+body {
+    font-family: "Arial", sans-serif;
+}
+
+.center {
+    margin: 0 auto;
+    width: 700px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.octopus {
+    position: relative;
+    width: 600px;
+    height: 427px;
+    margin: 20px auto;
+}
+
+.head {
+    position: absolute;
+    width: 300px;
+    height: 427px;
+    right: 0px;
+    background-color: #15DF71;
+    border-radius: 0px 200px 200px 0px;
+}
+
+.eye-white {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    top: 100px;
+    left: 200px;
+    background-color: white;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.eye-black {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    top: 10px;
+    left: 10px;
+    background-color: black;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.skills, .future-skills {
+    position: absolute;
+    height: 400px;
+    width:300px;
+    right: 300px;
+}
+
+.future-skill {
+    width: 250px;
+    height: 40px;
+    background-color: #FFFF00;
+    margin-bottom: 3px;
+    border-radius: 25px 0px 0px 25px;
+    margin-left: auto;
+    padding-left: 10px;
+}
+
+.future-skill-1 {
+    width: 290px;
+}
+
+.future-skill-2 {
+    width: 290px;
+}
+
+.future-skill-3 {
+    width: 260px;
+}
+
+.future-skill-4 {
+    width: 260px;
+}
+
+.future-skill-5 {
+    width: 290px;
+}
+
+.future-skill-6 {
+    width: 260px;
+}
+
+.future-skill-7 {
+    width: 290px;
+}
+
+.future-skill-8 {
+    width: 290px;
+}
+
+.future-skill-9 {
+    width: 290px;
+}
+
+.skill {
+    height: 40px;
+    line-height: 40px;
+    background-color: #15DF71;
+    margin-bottom: 3px;
+    border-radius: 25px 0 0 25px;
+    margin-left: auto;
+    padding-left: 10px;
+}
+
+.skill-1 {
+    width: 270px;
+}
+
+.skill-2 {
+    width: 200px;
+}
+
+.skill-3 {
+    width: 150px;
+}
+
+
+.skill-4 {
+    width: 130px;
+}
+
+.skill-5 {
+    width: 230px;
+}
+
+
+.skill-6 {
+    width: 200px;
+}
+
+
+.skill-7 {
+    width: 270px;
+}
+
+
+.skill-8 {
+    width: 270px;
+}
+
+
+.skill-9 {
+    width: 270px;
+}
+
+
+.skill-10 {
+    width: 100px;
+}
+
+.addition {
+    width: 310px;
+    margin: 20px auto;
+}
+
+.now {
+    display: inline-block;
+    background-color: #15DF71;
+    width: 150px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.in-future {
+    display: inline-block;
+    background-color: #FFFF00;
+    width: 150px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
